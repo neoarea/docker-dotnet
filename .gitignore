@@ -1,0 +1,5 @@
+project.lock.json
+*.user
+bin
+obj
+.vs
